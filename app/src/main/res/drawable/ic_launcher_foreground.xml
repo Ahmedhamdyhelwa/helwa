@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- دائرة بيضاء كخلفية للأيقونة -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 m-22,0 a22,22 0 1,0 44,0 a22,22 0 1,0 -44,0" />
+    <!-- علامة صح بنفسجية -->
+    <path
+        android:fillColor="#4A33C9"
+        android:pathData="M44.5,38.5 l-7,7 l-4,-4 l-3.5,3.5 l7.5,7.5 l10.5,-10.5 z" />
+    <!-- خطوط قائمة المهام -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,62 h28 a3,3 0 0,1 0,6 h-28 a3,3 0 0,1 0,-6 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,73 h20 a3,3 0 0,1 0,6 h-20 a3,3 0 0,1 0,-6 z" />
+</vector>
