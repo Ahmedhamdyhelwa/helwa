@@ -327,7 +327,7 @@ private fun SectionLabel(text: String) {
     )
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
 private fun ChipFlow(content: @Composable () -> Unit) {
     androidx.compose.foundation.layout.FlowRow(
