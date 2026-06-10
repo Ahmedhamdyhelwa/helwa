@@ -1,6 +1,6 @@
 // Lead form → Google Sheets (via Google Apps Script Web App)
 // ⚠️ بعد ما تعمل خطوات الربط في SETUP.md، حط لينك الـ Web App هنا:
-const APPS_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_URL_HERE';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzohz0UVnaBa5YftFpuehvcr72MVPqX2swhpY57Wv6v7FSbR1z6qoSq2bGWHA_lywr9/exec';
 
 const form = document.getElementById('leadForm');
 const msgBox = document.getElementById('formMsg');
